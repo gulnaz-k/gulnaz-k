@@ -16,6 +16,6 @@ I am passionate about data analysis and uncovering hidden patterns that help dri
 - **Databases:** PostgreSQL, MySQL
 - **Others:** Git, Docker, Excel, Jupyter Notebook
   
-- 📫 How to reach me
+## How to reach me
 - mnemose@gmail.com
 - @Gula_DA
